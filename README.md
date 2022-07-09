@@ -1,4 +1,4 @@
-<h1><img src="my_res/parrot.gif" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30"/> Hey! Nice to see you.</h1>
 
 ## 🕺 &nbsp;Welcome to My Page
 

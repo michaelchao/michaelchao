@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30"/> Hey! Nice to see you.</h1>
 
-## 🕺 &nbsp;Welcome to My Page
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="30"/> Welcome to My Page</h1>
 
 ```yaml
 name: MichaelMa
@@ -13,7 +13,7 @@ hobbies: ["Classic Movie", "Classic Music"]
 ```
 ---
 
-## 🛠️ &nbsp;Tech Stack
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515222/12408/meow_fat.gif?1643515222" width="30"/> Tech Stack</h1>
 
 <p>
   <img alt="conan"            src="https://img.shields.io/badge/-conan-blue?logo=conan" />
@@ -43,14 +43,14 @@ hobbies: ["Classic Movie", "Classic Music"]
 
 ---
 
-## ⚖️ &nbsp;Things I Code with
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" width="30"/> Things I Code with</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,vscode,vim,neovim,linux,bsd,git,github,gitlab,markdown,qt,ros,stackoverflow,&perline=8)](https://skillicons.dev)
 
 
 ---
 
-## ⭐ &nbsp;Github Star
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Github Star</h1>
 
 [![My GitHub Data](https://github-readme-stats.vercel.app/api?username=michaelchao&show_icons=true&theme=onedark&hide_border=true)]()
 
